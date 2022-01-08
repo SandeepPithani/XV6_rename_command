@@ -1,0 +1,8 @@
+import re
+str1 = "SandeepPithani (born 6 April 2003)," \
+       "student at kluniversity," \
+matches = refindall("is", str1)
+print(matches1)
+matches2 = re.search("He",srt1)
+print(matches2)
+matches3 = re.split(str1,
